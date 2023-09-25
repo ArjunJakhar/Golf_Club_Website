@@ -68,7 +68,7 @@ gsap.from(".card", {
     scale: 0.8,
     opacity: 0,
     duration: 0.7,
-    stagger: 0.1,
+    // stagger: 0.1,
     scrollTrigger: {
         trigger: ".card",
         scroller: "body",
